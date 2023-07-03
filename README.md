@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hola mi nombre es Juan Bermudez, me gusta programar y me gustan los aviones
+
 <!--
 **juanbermudezg/juanbermudezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
