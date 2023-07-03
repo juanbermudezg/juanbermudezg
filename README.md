@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Bermudez</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
+<h4>Spoken Languagues</h4>
+<img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanbermudezg&label=Profile%20views&color=b4900e&style=plastic" alt="juanbermudezg" /> </p>
 
