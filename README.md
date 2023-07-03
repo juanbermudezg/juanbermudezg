@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Juan Bermudez</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 <h4>Spoken Languagues</h4>
-<img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
-<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+<div style="display: flex;">
+  <figure>
+    <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
+    <figcaption>¡Hola mundo! Yo soy nativo del español.</figcaption>
+  </figure>
+  <figure>
+    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+    <figcaption>Hello world! I'm B2 in mostly american english.</figcaption>
+  </figure>
+  <figure>
+    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+    <figcaption>Salut monde ! Je suis B1 en français.</figcaption>
+  </figure>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanbermudezg&label=Profile%20views&color=b4900e&style=plastic" alt="juanbermudezg" /> </p>
 
