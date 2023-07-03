@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Bermudez</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanbermudesg&label=Profile%20views&color=b4900e&style=plastic" alt="juanbermudesg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanbermudezg&label=Profile%20views&color=b4900e&style=plastic" alt="juanbermudezg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanbermudesg" alt="juanbermudesg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanbermudezg" alt="juanbermudezg" /></a> </p>
 
 - 🔭 I’m currently working on **SHOP-AI**
 
