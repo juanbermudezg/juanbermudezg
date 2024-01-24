@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanbermudezg&label=Profile%20views&color=b4900e&style=plastic" alt="juanbermudezg" /> </p>
 
-- 🔭 I’m currently working on **SHOP-AI**
+- 🔭 I’m currently working on **SkyAI & TinySat**
 
 - 🌱 I’m currently learning **machine learning, java, python and MySQL**
 
