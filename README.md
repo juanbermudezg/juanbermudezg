@@ -34,3 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanbermudezg&show_icons=true&theme=highcontrast&locale=en" alt="juanbermudezg" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=juanbermudezg&layout=compact" alt="juanbermudezg" /></p>
