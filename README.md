@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **machine learning scripts**
 
-- 📫 How to reach me **juanbermudez_10@ieee.org**
+- 📫 How to reach me **eng.juanb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
