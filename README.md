@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Juan Bermudez</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate backend developer and aeronautical engineer from Colombia</h3>
 <h4>Spoken Languagues</h4>
 <div style="display: flex;">
   <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **genetic algorithms, blockchain and RPA (Automation Anywhere & Power Automate)**
 
-- 👯 I’m looking to collaborate on **aeronautic industry**
+- 👯 I’m looking to collaborate on **aeronautical industry**
 
 - 🤝 I’m looking for help with **prediction algortihms**
 
